@@ -1,5 +1,5 @@
 # My-Python-Projects
-Python project showcase I've made for school
+This is a file showcase for python games/programs i've made for school.
 
 ----------FILE NAME DIRECTORY-----------
 
